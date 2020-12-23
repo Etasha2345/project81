@@ -1,0 +1,46 @@
+.body_background {
+    text-align: center;
+    background-image: url("Spots.jpg");
+}
+
+h1 {
+    color: black;
+    background-color: #ffff00;
+    width: fit-content;
+    padding: 15px;
+    margin-left: 0px;
+    border-width: 15px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: double;
+    font-family: comic sans ms;
+}
+
+#myCanvas {
+    background-color: white;
+    margin: 10px;
+}
+
+button {
+    background-color: red;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-family: comic sans ms;
+    font-size: 20px;
+    width: 150px;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: double;
+}
+
+canvas {
+    border-width: 10px;
+    border-color: red;
+    border-radius: 5px;
+    border-style: ridge;
+    font-size: 25px;
+}
